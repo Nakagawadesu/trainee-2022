@@ -4,7 +4,7 @@
 - O foco aqui é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial. 
-<img width="841" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62350059/207483138-6476bd65-6973-4417-8c33-99c5eb6fe2a8.png">
+<img width="442" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62350059/207483138-6476bd65-6973-4417-8c33-99c5eb6fe2a8.png">
 
 >
 
