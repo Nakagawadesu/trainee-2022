@@ -4,7 +4,8 @@
 - O foco aqui é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial. 
-![cascata](https://user-images.githubusercontent.com/62350059/207381559-3148f115-8a59-476c-9ab2-f6a86cd74e2b.jpg)
+
+<img width="3377" alt="Untitled" src="https://user-images.githubusercontent.com/62350059/207482920-188d4359-4fa9-4943-8871-fb685d3b40ef.png">
 
 
 >Um framework em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos de software provendo uma funcionalidade genérica*
