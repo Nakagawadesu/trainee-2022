@@ -1,6 +1,5 @@
 
 # Metodologia Cascata :hatching_chick:
-### O que é :grey_question:
 - O foco aqui é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial. 
@@ -25,8 +24,7 @@
   - Uma thread é um pequeno programa que trabalha com um subsistema , ele é como se fosse a via onde passam as requisições e respostas
   - As outra tecnologias usam multi-threading(várias dessas vias), oque acaba utilizando mais recursos computacionais
   
-### Modelagem :hatching_chick:
-### O que é :grey_question:
+### Modelagem 
 - Não é uma linguagem de programação nem um framework
 - É na verdade uma Plataforma de aplicação
 - Permite a execução de código JavaScript fora de um navegador, como:
@@ -40,10 +38,9 @@
   - Possibilita abrir uma conexão que não se fecha, como uma sala de chat em tempo real(web.socket)
   - Isso se chama non-blocking I/O(input e output)
       >[Event Loop,Callbacks e assicronia](https://tipscode.com.br/event-loop-em-node-guia-completo)
-### Desenvolvimento :hatching_chick:
+### Desenvolvimento 
 ### Testes:grey_question:
-- Não é uma linguagem de programação nem um framework
-- É na verdade uma Plataforma de aplicação
+
 - Permite a execução de código JavaScript fora de um navegador, como:
    - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
    - Ele ccompila o código para o formato nativo 
@@ -52,9 +49,9 @@
 <img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
 # Kanban :hatching_chick:
+
 ### O que é :grey_question:
-- Não é uma linguagem de programação nem um framework
-- É na verdade uma Plataforma de aplicação
+
 - Permite a execução de código JavaScript fora de um navegador, como:
    - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
    - Ele ccompila o código para o formato nativo 
