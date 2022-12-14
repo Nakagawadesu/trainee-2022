@@ -4,9 +4,11 @@
 - O foco aqui é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial. 
+<img width="841" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62350059/207483138-6476bd65-6973-4417-8c33-99c5eb6fe2a8.png">
 
-<img width="3377" alt="Untitled (1)" src="https://user-images.githubusercontent.com/62350059/207483044-7df6f3d0-531c-4df4-b9e8-142f67ea9a1b.png">
+>
 
+<img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
 
 >Um framework em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos de software provendo uma funcionalidade genérica*
 
@@ -46,6 +48,8 @@
    - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
    - Ele ccompila o código para o formato nativo 
 ### Implantação
+# SCRUM
+<img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
 # Kanban :hatching_chick:
 ### O que é :grey_question:
@@ -55,6 +59,7 @@
    - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
    - Ele ccompila o código para o formato nativo 
 # OCCAM Workflow :minidisc:
+<img width="3377" alt="Untitled (1)" src="https://user-images.githubusercontent.com/62350059/207483044-7df6f3d0-531c-4df4-b9e8-142f67ea9a1b.png">
 
 - NPM = Node Package Manager
   - O maior repositório de bibliotecas do mundo
