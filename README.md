@@ -5,7 +5,7 @@
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial. 
 
-<img width="3377" alt="Untitled" src="https://user-images.githubusercontent.com/62350059/207482920-188d4359-4fa9-4943-8871-fb685d3b40ef.png">
+<img width="3377" alt="Untitled (1)" src="https://user-images.githubusercontent.com/62350059/207483044-7df6f3d0-531c-4df4-b9e8-142f67ea9a1b.png">
 
 
 >Um framework em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos de software provendo uma funcionalidade genérica*
