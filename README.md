@@ -2,7 +2,7 @@
 # Metodologia Cascata 
 - O foco desta maneira de trabalhar é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
-- É uma metodologia totalmente sequencial , com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
+- É uma metodologia totalmente sequencial, com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
 - As etapas ocorrem conforme o fluxograma abaixo
 <img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
 
