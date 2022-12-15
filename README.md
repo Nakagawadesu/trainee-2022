@@ -39,7 +39,7 @@
 - O planejamento intenso dessa metodologia pode ser desvantagem quando se encontram imprevistos , pois os prazos e metodos ja estao documentados e devem ser seguidos
   - por isso essa metodologia não é tão popular hoje em dia
   
-### testes 
+### Testes 
 
 - Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.
 - Todas as falhas devem ser corrigidas antes de passar para  a próxima fase
