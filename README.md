@@ -1,21 +1,27 @@
 
 # Metodologia Cascata :hatching_chick:
-- O foco aqui é ter um planejamento e uma documentação extensa.
+- O foco desta maneira de trabalhar é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial , com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
+- As etapas ocorrem conforme o fluxograma abaixo
+<img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
+
+>*
 <img width="224" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62350059/207483138-6476bd65-6973-4417-8c33-99c5eb6fe2a8.png">
 
 >
 
-<img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
-
->*
 
 ### Levantamento de requisitos  :telescope:
 
-- Fazer APIs, back-end de games, IoT, apps de mensagens, aplicações em tempo real, e aplicações serverless(cloud computing)
+- Nessa fase ocorre a listagem de todas as funcionalidades que o software precisa ter para atingir o objetivo.
+- Além disso como serão implementadas essas funcionalidades, quais linguagens de programação, frameworks ,serviço de hospedagem,etc..
+                > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
+- Para Unir todas essa informações é feito um documento chamado "análise de requisitos"
+- Nele se definem os *Requisitos Funcionais e Não Funcionais*
+- Entende -se por requisito...
 
-     >[O que é uma API](https://medium.com/@rullyalves/o-que-s%C3%A3o-apis-e-requisi%C3%A7%C3%B5es-http-919238f48206)
+  >[Exemplo de uma Analise de requisitos](https://tipscode.com.br/event-loop-em-node-guia-completo)
 
 ### Planejamento :arrows_counterclockwise:
 - **Execução single-thread**
