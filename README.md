@@ -16,34 +16,43 @@
 
 - Nessa fase ocorre a listagem de todas as funcionalidades que o software precisa ter para atingir o objetivo.
 - Além disso como serão implementadas essas funcionalidades, quais linguagens de programação, frameworks ,serviço de hospedagem,etc..
-                > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
+    - > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
 - Para Unir todas essa informações é feito um documento chamado "análise de requisitos"
 - Nele se definem os *Requisitos Funcionais e Não Funcionais*
 - Entende -se por requisito...
 
-  >[Exemplo de uma Analise de requisitos](https://tipscode.com.br/event-loop-em-node-guia-completo)
+  >[*Exemplo de uma Analise de requisitos*](https://tipscode.com.br/event-loop-em-node-guia-completo)
 
-### Planejamento :arrows_counterclockwise:
-- **Execução single-thread**
+### Projeto :arrows_counterclockwise:
 
-  - Uma thread é um pequeno programa que trabalha com um subsistema , ele é como se fosse a via onde passam as requisições e respostas
 
+- Agora com base nos requisitos do software:
+- Listam-se de tarefas para o desenvolvimento
+- Estima-se o tempo que essas tarefas custarão
+- Escolhe  membros da equipe de desnvolvimento
+- Modelagem da interface e arquitetura do sistema
+- apos a interface ter sido esboçada fica mais claro ainda oque deve ser alterado na análise de requisitos
+      - **Todo o processo deve ser documentado e toda alteração na análise de requisitos **  
+### Implementação 
+- Hora de *CODAR*
+- A duração dessa fase depende da complexidade  do software a ser desenvolvido , quantidade de membros na equipe , fora imprevistos 
+- O planejamento intenso dessa metodologia pode ser desvantagem quando se encontram imprevistos , pois os prazos e metodos ja estao documentados e devem ser seguidos
+  - por isso essa metodologia não é tão popular hoje em dia
   
-### Modelagem 
-- Não é uma linguagem de programação nem um framework
+### testes 
 
-- Permite a execução de código JavaScript fora de um navegador, como:
-   - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
-  - Isso se chama non-blocking I/O(input e output)
-      >[Event Loop,Callbacks e assicronia](https://tipscode.com.br/event-loop-em-node-guia-completo)
-### Desenvolvimento 
+- Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.
+- Todas as falhas devem ser corrigidas antes de passar para  a próxima fase
+-  aqui podem surgir algumas funcionalidades externas que serão apresentadas com a finalização do projeto
 
-### Testes
-
-- Permite a execução de código JavaScript fora de um navegador, como:
-   - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
-   - Ele ccompila o código para o formato nativo 
-### Implantação
+### Implantação e Manutenção
+- Com todos os testes efetuados , o sistemas é apresentado ao cliente 
+- Eventualmente algumas mudanças serão feitas no software , e todas elas podem ser aplicadas no modo cascata de forma recursiva
+- **Na teoria** essa metodologia garante uma entrega de maneira polida com a menor quantidade de erros possivel 
+- Porque não costumam utiliza-la maisÇ
+  - Dificuldade de cumprir os prazos de entrega(falta de produtividade, ansiedade , burnout)
+  - Ultrapassagem imprevista de orçamento
+  - A expectativa do usário final eh dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
 
 
 # SCRUM
