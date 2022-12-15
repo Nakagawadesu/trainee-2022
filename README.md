@@ -1,5 +1,5 @@
 
-# Metodologia Cascata :hatching_chick:
+# Metodologia Cascata 
 - O foco desta maneira de trabalhar é ter um planejamento e uma documentação extensa.
 - Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
 - É uma metodologia totalmente sequencial , com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
@@ -15,10 +15,10 @@
 ### Levantamento de requisitos  :telescope:
 
 - Nessa fase ocorre a listagem de todas as funcionalidades que o software precisa ter para atingir o objetivo.
-- Além disso como serão implementadas essas funcionalidades, quais linguagens de programação, frameworks ,serviço de hospedagem,etc..
+- Além disso como serão implementadas essas funcionalidades, quais linguagens de programação, frameworks, serviço de hospedagem, etc..
     - > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
 - Para Unir todas essa informações é feito um documento chamado "análise de requisitos"
-- Nele se definem os *Requisitos Funcionais e Não Funcionais*
+- Nele se definem os **Requisitos Funcionais e Não Funcionais**
 - Entende -se por requisito...
 
   >[*Exemplo de uma Analise de requisitos*](https://tipscode.com.br/event-loop-em-node-guia-completo)
@@ -49,10 +49,10 @@
 - Com todos os testes efetuados , o sistemas é apresentado ao cliente 
 - Eventualmente algumas mudanças serão feitas no software , e todas elas podem ser aplicadas no modo cascata de forma recursiva
 - **Na teoria** essa metodologia garante uma entrega de maneira polida com a menor quantidade de erros possivel 
-- Porque não costumam utiliza-la maisÇ
+### Porque não costumam utiliza-la mais:
   - Dificuldade de cumprir os prazos de entrega(falta de produtividade, ansiedade , burnout)
-  - Ultrapassagem imprevista de orçamento
-  - A expectativa do usário final eh dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
+  - Ultrapassagem imprevista de orçamento, geralmente por conta de imprevistos e por consequencia reiniciar a cascata
+  - A expectativa do usário final é dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
 
 
 # SCRUM
