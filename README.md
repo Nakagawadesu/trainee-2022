@@ -29,7 +29,7 @@
   >*Entende-se por requisitos funcionais: toda funcionalidade que estará presente na aplicação em questão, envolvendo todos os campos a serem exibidos e dados a serem validados, esses requisitos são definitivos, ou seja, qualquer alteração no mesmo, após a assinatura do contratante estão sujeitos a alterações no valor do projeto*
   >*Entende-se por requisitos não-funcionais: todo requisito relacionado ao uso da aplicação, seu desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias utilizadas na elaboração do projeto*
 
-### Projeto 
+### Projeto  :thought_balloon:
 
 
 - Agora com base nos requisitos do software:
@@ -39,13 +39,13 @@
     - Modelagem da interface e arquitetura do sistema
     - apos a interface ter sido esboçada fica mais claro ainda oque deve ser alterado na análise de requisitos
       -**Todo o processo deve ser documentado e toda alteração na análise de requisitos **  
-### Implementação 
+### Implementação 	:computer: 
 - Hora de *CODAR*
 - A duração dessa fase depende da complexidade  do software a ser desenvolvido , quantidade de membros na equipe , fora imprevistos 
 - O planejamento intenso dessa metodologia pode ser desvantagem quando se encontram imprevistos , pois os prazos e metodos ja estao documentados e devem ser seguidos
   - por isso essa metodologia não é tão popular hoje em dia
   
-### Testes 
+### Testes :stop_sign:
 
 - Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.
 - Todas as falhas devem ser corrigidas antes de passar para  a próxima fase
@@ -55,7 +55,7 @@
 - Com todos os testes efetuados , o sistemas é apresentado ao cliente 
 - Eventualmente algumas mudanças serão feitas no software , e todas elas podem ser aplicadas no modo cascata de forma recursiva
 - **Na teoria** essa metodologia garante uma entrega de maneira polida com a menor quantidade de erros possivel 
-### Porque não costumam utiliza-la mais:
+### Porque não costumam utiliza-la mais: 
   - Dificuldade de cumprir os prazos de entrega(falta de produtividade, ansiedade , burnout)
   - Ultrapassagem imprevista de orçamento, geralmente por conta de imprevistos e por consequencia reiniciar a cascata
   - A expectativa do usário final é dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
@@ -71,17 +71,17 @@
 - Numa sprint as funcionalidades são retiradas do *Pruduct Backlog* e vão para o *Sprint Backlog*
 <img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
-### Como ser um SCRUM MASTER
+### Como ser um SCRUM MASTER :mage_man:
 - O SCRUM MASTER é o responsavel por gerir todas as sprints  desde a criação do *BackLog* até a entrega do produto.  
 
 ### Monte a equipe
 - Dependende da compelexidade do projeto , mas a ideia é manter o minimo o possivel de desenvolvedores , de forma que seja possivel a gestão pois deve ter uma atenção individial com cada desenvolvedor e no andamento do projeto
-### Crie o Product Backlog
+### Crie o Product Backlog :spiral_notepad:
 - Liste todas as funcionalidades de forma bem separada e detalhada , e depos organize por prioridade
 - É interessante que se atinja um *MVP* o quanto antes para , comunicar e mostrar progresso ao cliente
    > MVP é 
 - Isso ajusta o desenvolvimento para algo mais proximo as exigencias do cliente
-### Planeje a Sprint
+### Planeje a Sprint :running_man:
 - Com base no *Product Backlog* , distribua  o desenvolvimento conforme a capacidade dos desenvolvedores e importancia da funcionalidade
 - Os objetivos da sprint devem estar sempre *claros para todos *
 - O que será feito? quem será o resposável? qual o prazo?
@@ -94,7 +94,7 @@
 - Um metodo desenvolvido e aplicado pela Toyota 
 - É simplesmente um  Quadro com uma sessão "Para fazer", "Fazendo" e "Feito"
 - Traz resultados excelentes e facilita muito o trabalho do SCRUM MASTER
-## OCCAM Workflow :minidisc:
+## OCCAM Workflow :pushpin:
 - Na OCCAM tentamos aproveitar as vantagens de cada um dos metodos , Aplicando algumas praticas de cada Método
 - A Etapa inicial do modelo cascata , é feita com rigor 
 - O próprio orçamento é baseado na analise de requisitos e os "termos de contrato" , também são atrelados  a esse documento
@@ -110,7 +110,7 @@
 - A maneira que trabalhamos na OCCAM está em constante melhoramento , e gostamos muito de testar coisas novas , e por conta disso criamos alguns ritos que geraram bons resultados ao longo do tempo 
 
 ## Ritos  da OCCAM :handbag:
-### Café dos Devs
+### Café dos Devs :coffee:
 - Um de Nossos membros sugeriu que um dia tomassemos café na OCCAM enquanto fizessemos o alinhamento , e que logo em seguida trabalhassemos na Sprint atual em grupo no mesmo local
 - A ideia foi um completo sucesso , depois de um tempo todos os alinhamentos semanais foram substituidos pelo *café dos devs*
 - Gerava uma produtividade maior pois compartilhavem-se as dificuldades e todos se ajudavam
@@ -122,7 +122,7 @@
 -  Para resolver esse problema fazemos alinhamentos gerias para todos do setor
 -  Cada equipe de um projeto mostra o estado atual do projeto que está trabalhando 
 -  É muito importante que todos da empresa saibam ao maximo o que os colegas estão fazendo , para poder aloca-la na função desejada , caso contrario a pessoa pode se sentir "esquecida" pela equipe
-### Cultura de FeedBacks
+### Cultura de FeedBacks :busts_in_silhouette:
 - Muitas vezes principalmente em cargos de liderança , pode surgir uma sensação de "névoa" ao pensar sobre seus colegas de equipe e situações
 - Como o diretor de projetos vai saber se sua gestão está satisfatória? Como o Scrum MASTER saberá se está sobrecarregando os desenvolvedores? etc.. 
 - Para isso é essencial que todos os membros tenham o habito de dar um "FeedBack" objetivo quando se realiza uma atividade
@@ -134,7 +134,7 @@
 - **Avaliação** : Traz a avaliação com o que deve ser melhorado
 - **Orientação** : Como a pessoa pode melhorar naquilo   
     
-### Final Quest
+### Final Quest :crossed_swords:
 - Trazer uma solução para o cliente , vende-lá e desenvolve-lá aplicando os conceitos das metodologias ágeis.
 
 - Grupo 1:
