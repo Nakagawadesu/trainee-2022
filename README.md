@@ -1,8 +1,13 @@
 
-# Metodologia Cascata 
-- O foco desta maneira de trabalhar é ter um planejamento e uma documentação extensa.
-- Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto.
-- É uma metodologia totalmente sequencial, com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
+
+# Metodologia Ageis de trabalho
+- Neste repositório vamos adentrar o mundo das metodologias ágeis de trabalho , e entender de onde veem a ideias aplicadas no modo que trabalhamos aqui na OCCAM e porque
+- Métodos Ágeis são um conjunto de praticas e metodos alternativos a gestão tradicional , com o objetivo na velocidade de entrega e a adaptação constante
+## Metodologia Cascata 
+- Era muito popular antigamente mas os gestores Atuais acreditam que seja ultrapassada
+- O foco desta maneira de trabalhar é ter um *planejamento e uma documentação extensa*
+- Isso gera uma previsibilidade maior sobre o tempo e sobre o orçamento do projeto
+- É uma metodologia totalmente *sequencial*, com etapas muito bem definidas onde não começa uma etapa sem terminar a anterior. 
 - As etapas ocorrem conforme o fluxograma abaixo
 <img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
 
@@ -17,13 +22,13 @@
 - Nessa fase ocorre a listagem de todas as funcionalidades que o software precisa ter para atingir o objetivo.
 - Além disso como serão implementadas essas funcionalidades, quais linguagens de programação, frameworks, serviço de hospedagem, etc..
     - > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
-- Para Unir todas essa informações é feito um documento chamado "análise de requisitos"
+- Para Unir todas essa informações é feito um documento chamado "*análise de requisitos*"
 - Nele se definem os **Requisitos Funcionais e Não Funcionais**
 - Entende -se por requisito...
 
   >[*Exemplo de uma Analise de requisitos*](https://tipscode.com.br/event-loop-em-node-guia-completo)
 
-### Projeto :arrows_counterclockwise:
+### Projeto 
 
 
 - Agora com base nos requisitos do software:
@@ -55,16 +60,37 @@
   - A expectativa do usário final é dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
 
 
-# SCRUM
-- 
+## SCRUM
+- O mais famosinho entre as metodologias de trabalho 
+- Conquista os gestores por trazer resultados rapidos com uma equipe pequena de desenvolvedores , e por ser simples e dinâminco.
+- Da mesma maneira que o metodo cascata desmembr ao software em funcionalidades o metodo SCRUM faz o mesmo
+- No SCRUM essa lista de funcionalidades se chama *Product Backlog* elaborado pelo *SCRUM MASTER*
+- Depois disso o projeto é executado em ciclos chamados *Sprints* , geralmente de duas semanas
+- Toda sprint é Planejada com base no product backlog , focando nas funcionalidades mais essenciais
+- Numa sprint as funcionalidades são retiradas do *Pruduct Backlog* e vão para o *Sprint Backlog*
 <img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
-# Kanban 
+### Como ser um SCRUM MASTER
+- O SCRUM MASTER 
 
-- Permite a execução de código JavaScript fora de um navegador, como:
-   - A Google criou um interpretador de Javascript , chamado V8 e utilizado no próprio Google chrome
-   - Ele ccompila o código para o formato nativo 
-# OCCAM Workflow :minidisc:
+### Monte a equipe
+- Dependende da compelexidade do projeto , mas a ideia é manter o minimo o possivel de desenvolvedores , de forma que seja possivel a gestão pois deve ter uma atenção individial com cada desenvolvedor e no andamento do projeto
+### Crie o Product Backlog
+- Liste todas as funcionalidades de forma bem separada e detalhada , e depos organize por prioridade
+- É interessante que se atinja um *MVP* o quanto antes para , comunicar e mostrar progresso ao cliente
+   > MVP é 
+- Isso ajusta o desenvolvimento para algo mais proximo as exigencias do cliente
+### Planeje a Sprint
+- Com base no *Product Backlog* , distribua  o desenvolvimento conforme a capacidade dos desenvolvedores e importancia da funcionalidade
+- Os objetivos da sprint devem estar sempre *claros para todos *
+- O que será feito? quem será o resposável? qual o prazo?
+### Realize os alinhamentos
+- Enquanto a sprint acontece , você deve alinhar com todos os envolvidos no projeto
+- Levantar o que deu certo e oque deu de errado com o dia de trabalho passado e planejar o dia de trablaho da equipe
+- Essas informações ajudarão a prospectar as proximas sprints , e adaptar conforme a produtividade da equipe
+### Sinergia com o método Kanban 
+
+## OCCAM Workflow :minidisc:
 - NPM = Node Package Manager
   - O maior repositório de bibliotecas do mundo
   - Todas as dependencias dos projetos são baixadas usando ele
@@ -77,9 +103,14 @@
 
 
 
-### Ritos :handbag:
+## Ritos :handbag:
+###Café dos Devs
 
-- Para o primeiro projetinho , vamos usar o Express
+###Alinhamentos
+
+###Cultura de FeedBacks
+
+
 
     
     
