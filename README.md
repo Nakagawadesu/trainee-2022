@@ -110,7 +110,7 @@
 - Dessa maneira conseguimos usufluir da previsibilidade de complexidade, orçamento e prazos que o método Cascata oferece , E utilizamos da adaptabilidade e feedback do cliente  para alinhar o produto coma as expectativas e reduzir o atraso devido a imprevistos.
 - A maneira que trabalhamos na OCCAM está em constante melhoramento , e gostamos muito de testar coisas novas , e por conta disso criamos alguns ritos que geraram bons resultados ao longo do tempo 
 
-## Ritos  da OCCAM :handbag:
+## Ritos  da OCCAM 
 ### Café dos Devs :coffee:
 - Um de Nossos membros sugeriu que um dia tomassemos café na OCCAM enquanto fizessemos o alinhamento , e que logo em seguida trabalhassemos na Sprint atual em grupo no mesmo local
 - A ideia foi um completo sucesso , depois de um tempo todos os alinhamentos semanais foram substituidos pelo *café dos devs*
