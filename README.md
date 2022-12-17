@@ -89,30 +89,49 @@
 - Levantar o que deu certo e oque deu de errado com o dia de trabalho passado e planejar o dia de trablaho da equipe
 - Essas informações ajudarão a prospectar as proximas sprints , e adaptar conforme a produtividade da equipe
 ### Sinergia com o método Kanban 
-
+- Uma grande ferramenta que auxilia as sprints é o Kanban
+- Um metodo desenvolvido e aplicado pela Toyota 
+- É simplesmente um  Quadro com uma sessão "Para fazer", "Fazendo" e "Feito"
+- Traz resultados excelentes e facilita muito o trabalho do SCRUM MASTER
 ## OCCAM Workflow :minidisc:
-- NPM = Node Package Manager
-  - O maior repositório de bibliotecas do mundo
-  - Todas as dependencias dos projetos são baixadas usando ele
-  - Yarn = ?
-- Mas por que eu deveria usar yarn, se eu nei sei oque significa?
-  - 1) Facebook criou ele
-  - 2) Yarn é capaz de paralelizar operações, maximizando a utilização de recursos e fazendo com que o processo de instalação seja mais rápido
+- Na OCCAM tentamos aproveitar as vantagens de cada um dos metodos , Aplicando algumas praticas de cada Método
+- A Etapa inicial do modelo cascata , é feita com rigor 
+- O próprio orçamento é baseado na analise de requisitos e os "termos de contrato" , também são atrelados  a esse documento
+- Esse documento deixa os prazos e objetivos bem claros , e vem tendo resultados positivos nas atividades recentes da empresa , pois todos os envolvidos sabem exatamente do que se trata o software que estão desenvolvendo ao ler o documento
+- Depois de assinar o contrato , se os blocos de "Design" e  "Desenvolvimento" podem ser explandidos em um fluxograma de SCRUM.
+- O Backlog é feito rapidamente pois os requisitos ja estao levantados
+- Conforme o cleinte valida o Design , em um certo ponto o desenvolvimento inicia ,  o quanto antes melhor
+- Até que sprint após sprint o objetivo seja alcançado 
 
 <img width="3377" alt="Untitled (1)" src="https://user-images.githubusercontent.com/62350059/207483044-7df6f3d0-531c-4df4-b9e8-142f67ea9a1b.png">
 
+- Dessa maneira conseguimos usufluir da previsibilidade de complexidade, orçamento e prazos que o método Cascata oferece , E utilizamos da adaptabilidade e feedback do cliente  para alinhar o produto coma as expectativas e reduzir o atraso devido a imprevistos.
+- A maneira que trabalhamos na OCCAM está em constante melhoramento , e gostamos muito de testar coisas novas , e por conta disso criamos alguns ritos que geraram bons resultados ao longo do tempo 
 
-
-## Ritos :handbag:
-###Café dos Devs
-
-###Alinhamentos
-
-###Cultura de FeedBacks
-
-
-
-    
+## Ritos  da OCCAM :handbag:
+### Café dos Devs
+- Um de Nossos membros sugeriu que um dia tomassemos café na OCCAM enquanto fizessemos o alinhamento , e que logo em seguida trabalhassemos na Sprint atual em grupo no mesmo local
+- A ideia foi um completo sucesso , depois de um tempo todos os alinhamentos semanais foram substituidos pelo *café dos devs*
+- Gerava uma produtividade maior pois compartilhavem-se as dificuldades e todos se ajudavam
+- Poupava de trabalho em casa 
+- Todos os membros conseguer ver o trabalho do colega ao lado , dando maior senso de responsabilidade e de equipe
+- Além de tudo isso é um momento bem descontraído, e  divertido  que fortifica os laços entre os membros
+### Alinhamentos Gerais do setor
+-  Em um dado momento percebemos que as diferentes equipes não sabiam oque estava acontecendo fora do próprio projeto
+-  Para resolver esse problema fazemos alinhamentos gerias para todos do setor
+-  Cada equipe de um projeto mostra o estado atual do projeto que está trabalhando 
+-  É muito importante que todos da empresa saibam ao maximo o que os colegas estão fazendo , para poder aloca-la na função desejada , caso contrario a pessoa pode se sentir "esquecida"
+### Cultura de FeedBacks
+- Muitas vezes principalmente em cargos de liderança , pode surgir uma sensação de "névoa" ao pensar sobre seus colegas de equipe e situações
+- Como o diretor de projetos vai saber se sua gestão está satisfatória? Como o Scrum MASTER saberá se está sobrecarregando os desenvolvedores? etc.. 
+- Para isso é essencial que todos os membros tenham o habito de dar um "FeedBack" objetivo quando se realiza uma atividade
+- Ou até mesmo formularios, é rapido , simples e efetivo
+- Além disso Parte da maturidade profissional é a maturidade emocional na hora de receber um feedback
+- Durante a vida profissional , ocorrerão erros e é preciso saber separar suas emoções e orgulho , quando se recebe um feedback , mesmo que pareça duro , é para que você reconheça o que pode ser melhorado, e posteriormente melhore.
+- Existe sim uma maneira certa de *dar um feedback* , **são 3 passos**:
+-**Reconhecimento** : Reconhece os pontos positivos da pessoa
+- **Avaliação** : Traz a avaliação com o que deve ser melhorado
+- **Orientação** : Como a pessoa pode melhorar naquilo   
     
 ### Final Quest
 - Trazer uma solução para o cliente , vende-lá e desenvolve-lá aplicando os conceitos das metodologias ágeis.
