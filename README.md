@@ -62,7 +62,7 @@
   - A expectativa do usário final é dificilmente cumprida , pois so se apresenta o produto de forma integra(ausência de feedback continuo com o cliente)
 
 
-## SCRUM
+## SCRUM :arrows_clockwise:
 - O mais famosinho entre as metodologias de trabalho 
 - Conquista os gestores por trazer resultados rapidos com uma equipe pequena de desenvolvedores , e por ser simples e dinâminco.
 - Da mesma maneira que o metodo cascata desmembrar o software em funcionalidades o metodo SCRUM faz o mesmo
