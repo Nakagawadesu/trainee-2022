@@ -24,9 +24,10 @@
     - > *Frameworks são estruturas compostas por um conjunto de códigos genéricos que permite o desenvolvimento de sistemas e aplicações*       
 - Para Unir todas essa informações é feito um documento chamado "*análise de requisitos*"
 - Nele se definem os **Requisitos Funcionais e Não Funcionais**
-- Entende -se por requisito...
 
-  >*Entende-se por requisitos funcionais: toda funcionalidade que estará presente na aplicação em questão, envolvendo todos os campos a serem exibidos e dados a serem validados, esses requisitos são definitivos, ou seja, qualquer alteração no mesmo, após a assinatura do contratante estão sujeitos a alterações no valor do projeto*
+
+  >*Entende-se por requisitos funcionais: toda funcionalidade que estará presente na aplicação em questão, envolvendo todos os campos a serem exibidos e dados a serem validados, esses requisitos são definitivos, ou seja, qualquer alteração no mesmo, após a assinatura do contratante estão sujeitos a alterações no valor do projeto*.   
+  
   >*Entende-se por requisitos não-funcionais: todo requisito relacionado ao uso da aplicação, seu desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias utilizadas na elaboração do projeto*
 
 ### Projeto  :thought_balloon:
