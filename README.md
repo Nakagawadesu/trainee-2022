@@ -48,7 +48,7 @@
 
 - Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.
 - Todas as falhas devem ser corrigidas antes de passar para  a próxima fase
--  aqui podem surgir algumas funcionalidades externas que serão apresentadas com a finalização do projeto
+-  Aqui podem surgir algumas funcionalidades externas que serão apresentadas com a finalização do projeto
 
 ### Implantação e Manutenção
 - Com todos os testes efetuados , o sistemas é apresentado ao cliente 
@@ -63,10 +63,10 @@
 ## SCRUM
 - O mais famosinho entre as metodologias de trabalho 
 - Conquista os gestores por trazer resultados rapidos com uma equipe pequena de desenvolvedores , e por ser simples e dinâminco.
-- Da mesma maneira que o metodo cascata desmembr ao software em funcionalidades o metodo SCRUM faz o mesmo
+- Da mesma maneira que o metodo cascata desmembrar o software em funcionalidades o metodo SCRUM faz o mesmo
 - No SCRUM essa lista de funcionalidades se chama *Product Backlog* elaborado pelo *SCRUM MASTER*
 - Depois disso o projeto é executado em ciclos chamados *Sprints* , geralmente de duas semanas
-- Toda sprint é Planejada com base no product backlog , focando nas funcionalidades mais essenciais
+- Toda sprint é Planejada com base no *Product backlog* , focando nas funcionalidades mais essenciais
 - Numa sprint as funcionalidades são retiradas do *Pruduct Backlog* e vão para o *Sprint Backlog*
 <img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
