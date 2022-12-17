@@ -1,6 +1,6 @@
 
 
-# Metodologia Ageis de trabalho
+# Metodologia Ágeis de trabalho
 - Neste repositório vamos adentrar o mundo das metodologias ágeis de trabalho , e entender de onde veem a ideias aplicadas no modo que trabalhamos aqui na OCCAM e porque
 - Métodos Ágeis são um conjunto de praticas e metodos alternativos a gestão tradicional , com o objetivo na velocidade de entrega e a adaptação constante
 ## Metodologia Cascata 
