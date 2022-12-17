@@ -26,7 +26,8 @@
 - Nele se definem os **Requisitos Funcionais e Não Funcionais**
 - Entende -se por requisito...
 
-  >[*Exemplo de uma Analise de requisitos*](https://tipscode.com.br/event-loop-em-node-guia-completo)
+  >*Entende-se por requisitos funcionais: toda funcionalidade que estará presente na aplicação em questão, envolvendo todos os campos a serem exibidos e dados a serem validados, esses requisitos são definitivos, ou seja, qualquer alteração no mesmo, após a assinatura do contratante estão sujeitos a alterações no valor do projeto*
+  >*Entende-se por requisitos não-funcionais: todo requisito relacionado ao uso da aplicação, seu desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias utilizadas na elaboração do projeto*
 
 ### Projeto 
 
@@ -71,7 +72,7 @@
 <img width="3377" alt="Untitled (4)" src="https://user-images.githubusercontent.com/62350059/207485853-7b2051b7-f950-4e85-b44e-146e5690302c.png">
 
 ### Como ser um SCRUM MASTER
-- O SCRUM MASTER 
+- O SCRUM MASTER é o responsavel por gerir todas as sprints  desde a criação do *BackLog* até a entrega do produto.  
 
 ### Monte a equipe
 - Dependende da compelexidade do projeto , mas a ideia é manter o minimo o possivel de desenvolvedores , de forma que seja possivel a gestão pois deve ter uma atenção individial com cada desenvolvedor e no andamento do projeto
@@ -120,7 +121,7 @@
 -  Em um dado momento percebemos que as diferentes equipes não sabiam oque estava acontecendo fora do próprio projeto
 -  Para resolver esse problema fazemos alinhamentos gerias para todos do setor
 -  Cada equipe de um projeto mostra o estado atual do projeto que está trabalhando 
--  É muito importante que todos da empresa saibam ao maximo o que os colegas estão fazendo , para poder aloca-la na função desejada , caso contrario a pessoa pode se sentir "esquecida"
+-  É muito importante que todos da empresa saibam ao maximo o que os colegas estão fazendo , para poder aloca-la na função desejada , caso contrario a pessoa pode se sentir "esquecida" pela equipe
 ### Cultura de FeedBacks
 - Muitas vezes principalmente em cargos de liderança , pode surgir uma sensação de "névoa" ao pensar sobre seus colegas de equipe e situações
 - Como o diretor de projetos vai saber se sua gestão está satisfatória? Como o Scrum MASTER saberá se está sobrecarregando os desenvolvedores? etc.. 
