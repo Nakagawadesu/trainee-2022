@@ -48,7 +48,7 @@
   
 ### Testes :stop_sign:
 
-- Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.
+- Agora é a hora de: *validar se todos os requisitos foram atendidos e se o software cumpre o objetivo.*
 - Todas as falhas devem ser corrigidas antes de passar para  a próxima fase
 -  Aqui podem surgir algumas funcionalidades externas que serão apresentadas com a finalização do projeto
 
