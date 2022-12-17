@@ -75,7 +75,7 @@
 ### Como ser um SCRUM MASTER :mage_man:
 - O SCRUM MASTER é o responsavel por gerir todas as sprints  desde a criação do *BackLog* até a entrega do produto.  
 
-### Monte a equipe
+### Monte a equipe :bust_in_silhouette:
 - Dependende da compelexidade do projeto , mas a ideia é manter o minimo o possivel de desenvolvedores , de forma que seja possivel a gestão pois deve ter uma atenção individial com cada desenvolvedor e no andamento do projeto
 ### Crie o Product Backlog :spiral_notepad:
 - Liste todas as funcionalidades de forma bem separada e detalhada , e depos organize por prioridade
@@ -86,7 +86,7 @@
 - Com base no *Product Backlog* , distribua  o desenvolvimento conforme a capacidade dos desenvolvedores e importancia da funcionalidade
 - Os objetivos da sprint devem estar sempre *claros para todos *
 - O que será feito? quem será o resposável? qual o prazo?
-### Realize os alinhamentos
+### Realize os alinhamentos :speaking_head:
 - Enquanto a sprint acontece , você deve alinhar com todos os envolvidos no projeto
 - Levantar o que deu certo e oque deu de errado com o dia de trabalho passado e planejar o dia de trablaho da equipe
 - Essas informações ajudarão a prospectar as proximas sprints , e adaptar conforme a produtividade da equipe
@@ -131,7 +131,7 @@
 - Além disso Parte da maturidade profissional é a maturidade emocional na hora de receber um feedback
 - Durante a vida profissional , ocorrerão erros e é preciso saber separar suas emoções e orgulho , quando se recebe um feedback , mesmo que pareça duro , é para que você reconheça o que pode ser melhorado, e posteriormente melhore.
 - Existe sim uma maneira certa de *dar um feedback* , **são 3 passos**:
--**Reconhecimento** : Reconhece os pontos positivos da pessoa
+- **Reconhecimento** : Reconhece os pontos positivos da pessoa
 - **Avaliação** : Traz a avaliação com o que deve ser melhorado
 - **Orientação** : Como a pessoa pode melhorar naquilo   
     
