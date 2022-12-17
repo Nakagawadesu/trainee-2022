@@ -11,7 +11,7 @@
 - As etapas ocorrem conforme o fluxograma abaixo
 <img width="3377" alt="Untitled (3)" src="https://user-images.githubusercontent.com/62350059/207485625-40b9f809-0fd4-41be-b98e-df1808db5586.png">
 
->*
+>
 <img width="224" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62350059/207483138-6476bd65-6973-4417-8c33-99c5eb6fe2a8.png">
 
 >
