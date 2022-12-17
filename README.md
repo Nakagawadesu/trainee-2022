@@ -80,7 +80,7 @@
 ### Crie o Product Backlog :spiral_notepad:
 - Liste todas as funcionalidades de forma bem separada e detalhada , e depos organize por prioridade
 - É interessante que se atinja um *MVP* o quanto antes para , comunicar e mostrar progresso ao cliente
-   > MVP é 
+   >*MVP é a sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável. Significa construir a versão mais simples e enxuta de um produto*
 - Isso ajusta o desenvolvimento para algo mais proximo as exigencias do cliente
 ### Planeje a Sprint :running_man:
 - Com base no *Product Backlog* , distribua  o desenvolvimento conforme a capacidade dos desenvolvedores e importancia da funcionalidade
